@@ -1,4 +1,19 @@
-h1{ background-color: gold;
-    font-size: 40px;
+
+
+.level1{background-color: aquamarine;
+    color: black;
+    width: 180;
+}
+#level2{background-color: blue;
+    color: whitesmoke;
+    width: 200;
 
 }
+body{ background-image: url(images/throwback.jpg);
+    background-repeat: no-repeat;
+}
+ul  {text-decoration: none;
+    display: inline;
+}
+
+    

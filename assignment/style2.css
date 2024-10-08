@@ -2,7 +2,6 @@ input , textarea{ border-width: medium;
     border-style: solid;
     border-color:green ;
     border-radius: 5px;
-
 }
 button{background-color: green;
     border-radius: 5px;

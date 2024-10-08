@@ -1,0 +1,16 @@
+.column1{ background-color: gray;
+    width: 31%;
+    height: 400px;
+    float: left;
+    margin: 10px;}
+
+.boldtext{font-size: 30px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 100px,0px,10px,opx;
+}
+
+.smalltext{ text-align: center;
+    font-size: 22px
+}
